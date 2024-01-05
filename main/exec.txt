@@ -1,0 +1,8 @@
+Digite a latitude: 39.42847      
+Digite a longitude: -8.80643
+Digite a distancia maxima: 100000
+Enter a category ('q' to quit): accommodation
+Enter a category ('q' to quit): activity
+Enter a category ('q' to quit): q
+Ordenar as atrações (s/n): n
+Filtrar as atrações (s/n): n
